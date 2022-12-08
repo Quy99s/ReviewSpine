@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "cc": "./../cocos-js/cc.js",
+    "split:/physx.release.asm.js": "./../cocos-js/assets/physx.release.asm-a22afa06.js"
+  }
+}
